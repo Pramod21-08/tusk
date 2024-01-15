@@ -1,0 +1,2 @@
+// this is the program to print Hello world in js
+console.log("Hello world!");
